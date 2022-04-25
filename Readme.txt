@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+Thanks for downloading this theme!
 
-Template Name: Plato
-Template URL: https://bootstrapmade.com/plato-responsive-bootstrap-website-template/
+Theme Name: TheEvent
+Theme URL: https://bootstrapmade.com/theevent-conference-event-bootstrap-template/
 Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Author URL: https://bootstrapmade.com
